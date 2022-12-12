@@ -1,0 +1,426 @@
+.img{
+	width: 100%;
+	height:100%;
+}
+.a
+{
+	height: 150vh;
+	width: 100%;
+}
+.a1
+{
+	height: 1vh;
+	width: 100%;
+}
+.a2
+{
+	height: 3vh;
+	width: 100%;
+	display: flex;
+}
+.a21
+{
+	height: 3vh;
+	width: 2%;
+}
+.a22
+{
+	height: 3vh;
+	width: 20%;
+}
+.a221
+{
+	height: 0.5vh;
+	width: 100%;
+}
+.a222
+{
+	height: 2vh;
+	width: 100%;
+	background-color: black;
+}
+.a223
+{
+	height: 0.5vh;
+	width: 100%;
+}
+.a23
+{
+	height: 3vh;
+	width: 68%;
+}
+.a24
+{
+	height: 3vh;
+	width: 1.8%;
+	background-color: black;
+}
+.a25
+{
+	height: 3vh;
+	width: 1.2%;
+}
+.a26
+{
+	height: 3vh;
+	width: 1.8%;
+	background-color: black;
+}
+.a27
+{
+	height: 3vh;
+	width: 1.2%;
+}
+.a28
+{
+	height: 3vh;
+	width: 1.8%;
+	background-color: black;
+}
+.a3
+{
+	height: 3vh;
+	width: 100%;
+}
+.a4
+{
+	height: 45vh;
+	width: 100%;
+	display: flex;
+}
+.a41
+{
+	height: 45vh;
+	width: 2%;
+}
+.a42
+{
+	height: 45vh;
+	width: 75%;
+	background-color: black;
+}
+.a43
+{
+	height: 45vh;
+	width: 3%;
+}
+.a44
+{
+	height: 45vh;
+	width: 18%;
+}
+.a441
+{
+	height: 20vh;
+	width: 100%;
+	background-color: black;
+}
+.a442
+{
+	height: 5vh;
+	width: 100%;
+}
+.a443
+{
+	height: 20vh;
+	width: 100%;
+	background-color: black;
+}
+.a5
+{
+	height: 4vh;
+	width: 100%;
+}
+.a6
+{
+	height: 80vh;
+	width: 100%;
+	display: flex;
+}
+.a61
+{
+	height: 80vh;
+	width: 2%;
+}
+.a62
+{
+	height: 80vh;
+	width: 20%;
+	background-color: black;
+}
+.a63
+{
+	height: 80vh;
+	width: 3%;
+}
+.a64
+{
+	height: 80vh;
+	width: 73%;
+}
+.a641
+{
+	height: 1.8vh;
+	width: 100%;
+	font-size: 7vh;
+}
+.a642
+{
+	height: 2.2vh;
+	width: 100%;
+}
+.a643
+{
+	height: 1.8vh;
+	width: 100%;
+	
+}
+.a644
+{
+	height: 2.2vh;
+	width: 100%;
+}
+.a645
+{
+	height: 1.8vh;
+	width: 100%;
+
+}
+.a646
+{
+	height: 7vh;
+	width: 100%;
+}
+.a647
+{
+	height: 20vh;
+	width: 100%;
+	display: flex;
+}
+.a6471
+{
+	height: 20vh;
+	width: 2%;
+}
+.a6472
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a6473
+{
+	height: 20vh;
+	width: 12%;
+}
+.a6474
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a6475
+{
+	height: 20vh;
+	width: 12%;
+}
+.a6476
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a648
+{
+	height: 4vh;
+	width: 100%;
+}
+.a649
+{
+	height: 1.1vh;
+	width: 100%;
+	display: flex;
+}
+.a6491
+{
+	height: 1.1vh;
+	width: 28%;
+	font-size: 2.5vh;
+}
+.a6492
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a6493
+{
+	height: 1.1vh;
+	width: 28%;
+	font-size: 2.5vh;
+}
+.a6494
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a6495
+{
+	height: 1.1vh;
+	width: 28%;
+	font-size: 2.5vh;
+}
+.a64b
+{
+	height: 2vh;
+	width: 100%;
+}
+.a64b1
+{
+	height: 1.1vh;
+	width: 100%;
+	display: flex;
+}
+.a64b11
+{
+	height: 1.1vh;
+	width: 28%;
+}
+.a64b12
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b13
+{
+	height: 1.1vh;
+	width: 28%;
+}
+.a64b14
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b15
+{
+	height: 1.1vh;
+	width: 28%;
+}
+.a64b2
+{
+	height: 6.7vh;
+	width: 100%;
+}
+.a64b3
+{
+	height: 20vh;
+	width: 100%;
+	display: flex;
+}
+.a64b31
+{
+	height: 20vh;
+	width: 2%;
+}
+.a64b32
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a64b33
+{
+	height: 20vh;
+	width: 12%;
+}
+.a64b34
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a64b35
+{
+	height: 20vh;
+	width: 12%;
+}
+.a64b36
+{
+	height: 20vh;
+	width: 24%;
+	background-color: black;
+}
+.a64b4
+{
+	height: 4vh;
+	width: 100%;
+}
+.a64b5
+{
+	height: 1.1vh;
+	width: 100%;
+	display: flex;
+}
+.a64b51
+{
+	height: 1.1vh;
+	width: 28%;
+    font-size: 2.5vh;
+}
+.a64b52
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b53
+{
+	height: 1.1vh;
+	width: 28%;
+	font-size: 2.5vh;
+}
+.a64b54
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b55
+{
+	height: 1.1vh;
+	width: 28%;
+    font-size: 2.5vh;
+}
+.a64b6
+{
+	height: 2vh;
+	width: 100%;
+}
+.a64b7
+{
+	height: 1.1vh;
+	width: 100%;
+	display: flex;
+}
+.a64b71
+{
+	height: 1.1vh;
+	width: 28%;
+}
+.a64b72
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b73
+{
+	height: 1.1vh;
+	width: 28%;
+}
+.a64b74
+{
+	height: 1.1vh;
+	width: 8%;
+}
+.a64b75
+{
+	height: 1.1vh;
+	width: 28%;
+}
